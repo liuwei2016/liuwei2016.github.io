@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-20T06:54:50.157Z</updated>
+    <updated>2021-10-20T07:47:35.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -43,26 +43,32 @@ css-doodle</p>
 <p>github 中文项目排行版</p>
 <p><a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts?utm_source=gold_browser_extension">GitHub - kon9chunkit/GitHub-Chinese-Top-Charts: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！</a></p>
 <img src="https://images.unsplash.com/photo-1552053831-71594a27632d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTgwOTN8MHwxfHNlYXJjaHwyfHxkb2d8ZW58MHx8fHwxNjI4ODY3MzAx&ixlib=rb-1.2.1&q=80&w=1080" style="zoom:30%;" />
-<p>html5 模板</p>
-<p>https://html5up.net/</p>
-<p>js合集</p>
-<p>https://www.javascript.fun/</p>
-<p>css 灵感</p>
-<p>https://csscoco.com/inspiration/#/</p>
-<p>css 基础<br>
-https://lhammer.cn/You-need-to-know-css/#/zh-cn/</p>
-<p>css技巧<br>
-https://qishaoxuan.github.io/css_tricks</p>
-<p>css 动画基础<br>
-https://animista.net/play/text/focus-in</p>
-<p>flex : 布局游戏</p>
-<p>http://flexboxfroggy.com/</p>
-<p>渐变色</p>
-<p>https://uigradients.com</p>
-<p>即时设计</p>
-<p>https://js.design/</p>
-<p>js 技巧</p>
-<p>https://www.jstips.co/</p>
+[html5 模板](https://html5up.net/)
+js合集
+https://www.javascript.fun/
+<h3 id="css">css</h3>
+<ul>
+<li><a href="https://lhammer.cn/You-need-to-know-css/#/zh-cn/interesting-usage">有趣的css</a></li>
+<li><a href="https://csscoco.com/inspiration/#/">css 灵感 </a></li>
+<li>css 基础<br>
+https://lhammer.cn/You-need-to-know-css/#/zh-cn/</li>
+<li>css技巧<br>
+https://qishaoxuan.github.io/css_tricks</li>
+<li>css 动画基础<br>
+https://animista.net/play/text/focus-in</li>
+<li>flex : 布局游戏<br>
+http://flexboxfroggy.com/</li>
+</ul>
+<p>渐变色<br>
+https://uigradients.com<br>
+即时设计<br>
+https://js.design/<br>
+<a href="https://tobiasahlin.com/spinkit/">加载效果</a><br>
+<a href="https://sass.bootcss.com/documentation">scss文档</a><br>
+<a href="https://less.bootcss.com/">less文档</a></p>
+<h3 id="js">JS</h3>
+<p>js 技巧<br>
+https://www.jstips.co/</p>
 <ol>
 <li>CSS battle : https://cssbattle.dev</li>
 <li>Learn CSS layout：http://learnlayout.com</li>
@@ -90,6 +96,14 @@ https://animista.net/play/text/focus-in</p>
 <li>Feathericons：https://feathericons.com</li>
 <li>HTML5UP ：https://html5up.net/</li>
 </ol>
+<h3 id="nodejs">nodeJs</h3>
+<ul>
+<li>rimraf</li>
+<li>koa</li>
+<li>express</li>
+</ul>
+<h3 id="前端杂烩">前端杂烩</h3>
+<p><a href="https://juejin.cn/post/6844903902299553806">前端进阶必备，github 优质资源整理</a></p>
 ]]></content>
     </entry>
     <entry>
