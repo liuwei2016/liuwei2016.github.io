@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>Gridea</title>
-    <updated>2021-10-20T01:54:39.750Z</updated>
+    <updated>2021-10-20T01:58:39.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -10,6 +10,80 @@
     <logo>https://liuwei2016.github.io/images/avatar.png</logo>
     <icon>https://liuwei2016.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[经典工具收藏]]></title>
+        <id>https://liuwei2016.github.io/post/jing-dian-gong-ju-shou-cang/</id>
+        <link href="https://liuwei2016.github.io/post/jing-dian-gong-ju-shou-cang/">
+        </link>
+        <updated>2021-10-20T01:56:36.000Z</updated>
+        <content type="html"><![CDATA[<p>vue</p>
+<p>模板 编译i</p>
+<p>https://vue-template-explorer.netlify.app/</p>
+<p>vue3.0</p>
+<p>https://vue-next-template-explorer.netlify.app/</p>
+<ul>
+<li><a href="https://jsperf.com/popular"><strong>jsperf</strong></a> 一个提供在线 test case 的网站，主要用来比较性能。可以比较如： forEach vs for 的性能</li>
+<li><a href="https://github.com/lukejacksonn/perflink"><strong>perflink</strong></a> 与 jsperf 类似的一个比较 js 性能的网站</li>
+</ul>
+<p>ast</p>
+<p>https://astexplorer.net/</p>
+<p>gogocod 代码转换gogocode.io</p>
+<p>csstemplate</p>
+<p>https://startbootstrap.com/</p>
+<p>在线手绘流程：</p>
+<p>https://sketchviz.com/new</p>
+<p>精灵图</p>
+<p>https://spritejs.org/demo</p>
+<p>文件批量重命名</p>
+<p>https://webrename.cn/</p>
+<p>chrome 工具包</p>
+<p><a href="https://github.com/zhaoolee/ChromeAppHeroes">zhaoolee/ChromeAppHeroes: 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新 (github.com)</a></p>
+<p>github 中文项目排行版</p>
+<p><a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts?utm_source=gold_browser_extension">GitHub - kon9chunkit/GitHub-Chinese-Top-Charts: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！</a></p>
+<img src="https://images.unsplash.com/photo-1552053831-71594a27632d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTgwOTN8MHwxfHNlYXJjaHwyfHxkb2d8ZW58MHx8fHwxNjI4ODY3MzAx&ixlib=rb-1.2.1&q=80&w=1080" style="zoom:30%;" />
+<p>html5 模板</p>
+<p>https://html5up.net/</p>
+<p>js合集</p>
+<p>https://www.javascript.fun/</p>
+<p>css 灵感</p>
+<p>https://csscoco.com/inspiration/#/</p>
+<p>flex : 布局游戏</p>
+<p>http://flexboxfroggy.com/</p>
+<p>渐变色</p>
+<p>https://uigradients.com</p>
+<p>即时设计</p>
+<p>https://js.design/</p>
+<p>js 技巧</p>
+<p>https://www.jstips.co/</p>
+<ol>
+<li>CSS battle : https://cssbattle.dev</li>
+<li>Learn CSS layout：http://learnlayout.com</li>
+<li>Flexbox Froggy：http://flexboxfroggy.com</li>
+<li>EnjoyCSS：https://enjoycss.com</li>
+<li>CSS-Tricks ：https://css-tricks.com</li>
+<li>Neumorphism：https://neumorphism.io</li>
+<li>uiGradients：https://uigradients.com</li>
+<li>JavaScript：https://bonsaiden.github.io/JavaScript-Garden/zh/</li>
+<li>JS Tips：https://www.jstips.co</li>
+<li>JSweekly：https://javascriptweekly.com</li>
+<li>CDNJS：https://cdnjs.com/libraries</li>
+<li>Beautiful Open ：https://beautifulopen.com</li>
+<li>JavaScript Fun：https://www.javascript.fun</li>
+<li>Stack Overflow：https://stackoverflow.com</li>
+<li>掘金：https://juejin.im</li>
+<li>Codrops：https://tympanus.net</li>
+<li>CodePen：https://codepen.io</li>
+<li>CodeSandBox：https://codesandbox.io</li>
+<li>JS Bin：https://jsbin.com</li>
+<li>ICONSVG：https://iconsvg.xyz</li>
+<li>OpenMoji：https://www.openmoji.org</li>
+<li>Share Icon ：https://www.shareicon.net</li>
+<li>tableconvert ：https://tableconvert.com</li>
+<li>Feathericons：https://feathericons.com</li>
+<li>HTML5UP ：https://html5up.net/</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://liuwei2016.github.io/post/hello-gridea/</id>
