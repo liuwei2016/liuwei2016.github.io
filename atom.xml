@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-21T03:46:49.381Z</updated>
+    <updated>2021-10-21T03:54:08.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -10,6 +10,53 @@
     <logo>https://liuwei2016.github.io/images/avatar.png</logo>
     <icon>https://liuwei2016.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 大伟前端</rights>
+    <entry>
+        <title type="html"><![CDATA[搭建quick-admin]]></title>
+        <id>https://liuwei2016.github.io/post/da-jian-quick-admin/</id>
+        <link href="https://liuwei2016.github.io/post/da-jian-quick-admin/">
+        </link>
+        <updated>2021-10-20T08:09:13.000Z</updated>
+        <content type="html"><![CDATA[<p>搭建quick-admin</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搭建sentry]]></title>
+        <id>https://liuwei2016.github.io/post/da-jian-sentry/</id>
+        <link href="https://liuwei2016.github.io/post/da-jian-sentry/">
+        </link>
+        <updated>2021-10-20T08:08:55.000Z</updated>
+        <content type="html"><![CDATA[<p>搭建sentry</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搭建YAPI]]></title>
+        <id>https://liuwei2016.github.io/post/da-jian-yapi/</id>
+        <link href="https://liuwei2016.github.io/post/da-jian-yapi/">
+        </link>
+        <updated>2021-10-20T08:08:02.000Z</updated>
+        <content type="html"><![CDATA[<p>创建接口平台</p>
+<p>mongdb</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搭建docker]]></title>
+        <id>https://liuwei2016.github.io/post/da-jian-docker/</id>
+        <link href="https://liuwei2016.github.io/post/da-jian-docker/">
+        </link>
+        <updated>2021-10-20T08:07:37.000Z</updated>
+        <content type="html"><![CDATA[<p>docker</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ubuntu 操作日记]]></title>
+        <id>https://liuwei2016.github.io/post/ubuntu-cao-zuo-ri-ji/</id>
+        <link href="https://liuwei2016.github.io/post/ubuntu-cao-zuo-ri-ji/">
+        </link>
+        <updated>2021-10-20T07:48:08.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="环境准备">环境准备</h3>
+<h3 id="安装">安装</h3>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[经典工具收藏]]></title>
         <id>https://liuwei2016.github.io/post/jing-dian-gong-ju-shou-cang/</id>
