@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-21T09:17:26.135Z</updated>
+    <updated>2021-10-21T09:21:10.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -69,7 +69,11 @@
         <link href="https://liuwei2016.github.io/post/jing-dian-gong-ju-shou-cang/">
         </link>
         <updated>2021-10-20T01:56:36.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="vue">vue</h3>
+        <summary type="html"><![CDATA[<p>这是一个前端经典的工具收藏宝箱，希望在提高效率方面 能给你加助燃剂</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一个前端经典的工具收藏宝箱，希望在提高效率方面 能给你加助燃剂</p>
+<!-- more -->
+<h3 id="vue">vue</h3>
 <p>模板 编译i</p>
 <p>https://vue-template-explorer.netlify.app/</p>
 <h3 id="vue30">vue3.0</h3>
