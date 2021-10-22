@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-21T09:40:25.854Z</updated>
+    <updated>2021-10-22T05:54:43.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -11,7 +11,73 @@
     <icon>https://liuwei2016.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 大伟前端</rights>
     <entry>
-        <title type="html"><![CDATA[前端监控与自动化有哪些方面]]></title>
+        <title type="html"><![CDATA[每周精选第一期]]></title>
+        <id>https://liuwei2016.github.io/post/mei-zhou-jing-xuan-di-yi-qi/</id>
+        <link href="https://liuwei2016.github.io/post/mei-zhou-jing-xuan-di-yi-qi/">
+        </link>
+        <updated>2021-10-22T05:35:06.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>
+<p><a href="https://juejin.cn/post/7016520448204603423">你会用ES6，那倒是用啊！</a></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s/IJHI9JB3nMQPi46b6yGVWw">web worker性能优化初体验</a></p>
+</li>
+<li>
+<p><a href="https://juejin.cn/post/7013247812628381704?utm_source=gold_browser_extension">UI：你们有没有什么花哨点的组件库给我参考一下？</a></p>
+</li>
+<li>
+<p>如何用“底层逻辑”，看清世界的底牌？</p>
+<p>只有底层逻辑才有生命力。<br>
+因为底层逻辑在面临变化的时候，能够应用到新的变化里面，会产生出新的方法论。</p>
+<p>如果用一个公式来表示的话，是这样：<br>
+底层逻辑 + 环境变量 = 方法论</p>
+<p>如果说只掌握各行各业的“干货”方法论，那只是“授人以鱼”，只要环境出现任何变化，“干货”就不再适用。<br>
+但如果掌握的是“底层逻辑”，那就是“授人以渔”，你可以通过不变的底层逻辑，推演出顺应时势的方法论。<br>
+所以，只有掌握了底层逻辑，只有探寻到了万变中的不变，才能动态地、持续地看清事物的本质。</p>
+<p>\1. 是非对错的底层逻辑<br>
+\2. 思考问题的底层逻辑<br>
+\3. 个体进化的底层逻辑<br>
+\4. 理解他人的底层逻辑<br>
+\5. 社会协作的底层逻辑</p>
+</li>
+<li>
+<h4 id="前端应该了解的直播知识"><a href="https://mp.weixin.qq.com/s/LElmZjWOm8OmchrQj50_0A">前端应该了解的直播知识</a></h4>
+</li>
+<li>
+<p>[在 VR 环境中编程，多屏香不香？<br>
+<img src="http://confluence.daojia-inc.com/download/attachments/131986174/6cAyDl.png?version=1&amp;modificationDate=1634276854000&amp;api=v2" alt="img" loading="lazy"></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s/zYXfmQ8l61p6ax0UX2LRHw">建立和维护大型 Vue.js 项目的 10 个最佳实践</a>。</p>
+</li>
+<li>
+<p><a href="https://www.ozzillate.com/">声波传文件</a></p>
+</li>
+<li>
+<p>[前端40+精选VSCode插件，总有几个你未拥有！</p>
+</li>
+<li>
+<p><a href="https://www.zhihu.com/question/21861899/answer/20300871">escape,encodeURI,encodeURIComponent有什么区别?</a></p>
+</li>
+<li>
+<p><a href="https://www.zhihu.com/question/314761485">为什么react比vue更适合大型应用？</a>刘伟推荐<br>
+React更拥抱函数式编程的哲学思想，大型项目，期望代码充分解耦，可测试。函数式，无副作用，天然契合。加入hooks的react，函数式的更彻底！</p>
+</li>
+<li>
+<p><a href="https://github.com/kingcos/JueJueZiGenerator">绝绝子生成器</a></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s/ZC1lPnSsZxjMiADNATOA7Q">《鱿鱼游戏》的骨子里，是“权力的游戏”</a></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s/2y2sgOmZvOlETuubK7O_Og">在B站围观大佬自制钢铁侠机械臂</a></p>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端整体提高效率和质量有哪些方面？]]></title>
         <id>https://liuwei2016.github.io/post/qian-duan-jian-kong-yu-zi-dong-hua-you-na-xie-fang-mian/</id>
         <link href="https://liuwei2016.github.io/post/qian-duan-jian-kong-yu-zi-dong-hua-you-na-xie-fang-mian/">
         </link>
@@ -22,6 +88,7 @@
 <!-- more -->
 <h3 id="ui搞生成样板代码">UI搞生成样板代码</h3>
 <h3 id="ui走查">UI走查😱</h3>
+<p>sketch</p>
 <h3 id="前端埋点统计-非常重要">前端埋点统计😀😀 非常重要</h3>
 <ul>
 <li>无埋点</li>
@@ -41,6 +108,11 @@
 <h3 id="前端命名规范库">前端命名规范库</h3>
 <p>css命名<br>
 js命名</p>
+<h3 id="数据驱动">数据驱动</h3>
+<p>pv uv，涨了 怎么涨的<br>
+针对活动 多渠道<br>
+某项活动<br>
+多策略情况，无法直接判断收益</p>
 <h3 id="团队个人表现数据追踪">团队个人表现数据追踪</h3>
 <ol>
 <li>技术优化</li>
@@ -48,8 +120,9 @@ js命名</p>
 <li>效率贡献</li>
 <li>负载率</li>
 <li>bug数，解决及时度</li>
-<li></li>
 </ol>
+<h3 id="可视化搭建">可视化搭建</h3>
+<p>###AB Test</p>
 ]]></content>
     </entry>
     <entry>
@@ -156,6 +229,7 @@ HTTP2.0<br>
 </ul>
 <h3 id="ast">ast</h3>
 <p>https://astexplorer.net/</p>
+<p><a href="https://f2e.tech/mindmap">前端知识体系</a></p>
 <p>gogocod 代码转换gogocode.io</p>
 <p>csstemplate</p>
 <p>https://startbootstrap.com/</p>
@@ -233,38 +307,6 @@ https://www.jstips.co/</p>
 </ul>
 <h3 id="前端杂烩">前端杂烩</h3>
 <p><a href="https://juejin.cn/post/6844903902299553806">前端进阶必备，github 优质资源整理</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://liuwei2016.github.io/post/hello-gridea/</id>
-        <link href="https://liuwei2016.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
