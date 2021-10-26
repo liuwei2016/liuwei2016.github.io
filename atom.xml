@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-22T05:54:43.955Z</updated>
+    <updated>2021-10-26T08:19:06.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -10,6 +10,119 @@
     <logo>https://liuwei2016.github.io/images/avatar.png</logo>
     <icon>https://liuwei2016.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 大伟前端</rights>
+    <entry>
+        <title type="html"><![CDATA[前端难题]]></title>
+        <id>https://liuwei2016.github.io/post/qian-duan-nan-ti/</id>
+        <link href="https://liuwei2016.github.io/post/qian-duan-nan-ti/">
+        </link>
+        <updated>2021-10-26T06:38:10.000Z</updated>
+        <content type="html"><![CDATA[<p>1.用户在该客户端浏览的行为数据<br>
+2.表单是否好用，表单错误率是多少<br>
+3.表格是否好用，<br>
+4. 体验评分（反馈系统）</p>
+<h3 id="管理难题">管理难题</h3>
+<ol>
+<li>项目技术栈 混乱</li>
+<li>项目不可持续迭代
+<ul>
+<li>1.项目过大，无法维护，难以维护</li>
+<li>2.项目混乱，无法维护</li>
+<li>3.人员技术混乱</li>
+</ul>
+</li>
+<li></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[react 生态]]></title>
+        <id>https://liuwei2016.github.io/post/react-sheng-tai/</id>
+        <link href="https://liuwei2016.github.io/post/react-sheng-tai/">
+        </link>
+        <updated>2021-10-26T05:46:15.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://semi.design/">抖音中后台组件库</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的npm 仓库]]></title>
+        <id>https://liuwei2016.github.io/post/wo-de-npm-cang-ku/</id>
+        <link href="https://liuwei2016.github.io/post/wo-de-npm-cang-ku/">
+        </link>
+        <updated>2021-10-26T03:06:05.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="node-工具">node 工具</h3>
+<ul>
+<li>
+<p>crypto-js  加密仓库</p>
+</li>
+<li>
+<p>chokidar  文件监测</p>
+</li>
+<li>
+<p>rimrf</p>
+</li>
+</ul>
+<h3 id="babel">babel</h3>
+<h3 id="eslint">eslint</h3>
+<h3 id=""></h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vite]]></title>
+        <id>https://liuwei2016.github.io/post/vite/</id>
+        <link href="https://liuwei2016.github.io/post/vite/">
+        </link>
+        <updated>2021-10-25T07:47:44.000Z</updated>
+        <content type="html"><![CDATA[<p>vue-cli 迁移到 vite</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的github Sart项目清单]]></title>
+        <id>https://liuwei2016.github.io/post/wo-de-github-sart-xiang-mu-qing-dan/</id>
+        <link href="https://liuwei2016.github.io/post/wo-de-github-sart-xiang-mu-qing-dan/">
+        </link>
+        <updated>2021-10-25T07:32:55.000Z</updated>
+        <content type="html"><![CDATA[<p>vueuse 一个vue的工具包</p>
+<p>the-super-tiny-compiler 一个微小的编译器</p>
+<p><a href="https://github.com/SangKa/MobX-Docs-CN">MobX-Docs-CN 中文文档</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue生态圈文档]]></title>
+        <id>https://liuwei2016.github.io/post/vue-sheng-tai-quan-wen-dang/</id>
+        <link href="https://liuwei2016.github.io/post/vue-sheng-tai-quan-wen-dang/">
+        </link>
+        <updated>2021-10-25T02:55:49.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="源码">源码</h2>
+<p><a href="https://www.kancloud.cn/sllyli/vuejs/1244017">vue内部运行机制</a><br>
+<a href="https://vue-js.com/learn-vue/">vue源码</a></p>
+<h2 id="文档编写">文档编写</h2>
+<p><a href="https://vue-styleguidist.github.io/">vue style 文档</a><br>
+vue press<br>
+docs<br>
+storybook</p>
+<h2 id="工程化">工程化</h2>
+<p>##组件化</p>
+<h2 id="ssr">SSR</h2>
+<h2 id="插件">插件</h2>
+<h2 id="vue30">vue3.0</h2>
+<h2 id="路由">路由</h2>
+<h2 id="数据共享">数据共享</h2>
+<h2 id="经典开源项目">经典开源项目</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ast与babel]]></title>
+        <id>https://liuwei2016.github.io/post/ast-yu-babel/</id>
+        <link href="https://liuwei2016.github.io/post/ast-yu-babel/">
+        </link>
+        <updated>2021-10-24T03:04:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>AST 与 Babel</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>AST 与 Babel</p>
+<!-- more -->
+<p>AST 与 Babel</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每周精选第一期]]></title>
         <id>https://liuwei2016.github.io/post/mei-zhou-jing-xuan-di-yi-qi/</id>
@@ -61,7 +174,7 @@
 <p><a href="https://www.zhihu.com/question/21861899/answer/20300871">escape,encodeURI,encodeURIComponent有什么区别?</a></p>
 </li>
 <li>
-<p><a href="https://www.zhihu.com/question/314761485">为什么react比vue更适合大型应用？</a>刘伟推荐<br>
+<p><a href="https://www.zhihu.com/question/314761485">为什么react比vue更适合大型应用？</a><br>
 React更拥抱函数式编程的哲学思想，大型项目，期望代码充分解耦，可测试。函数式，无副作用，天然契合。加入hooks的react，函数式的更彻底！</p>
 </li>
 <li>
@@ -132,181 +245,6 @@ js命名</p>
         </link>
         <updated>2021-10-21T09:23:46.000Z</updated>
         <content type="html"><![CDATA[<p>工程化的内容</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端知识体系]]></title>
-        <id>https://liuwei2016.github.io/post/qian-duan-zhi-shi-ti-xi/</id>
-        <link href="https://liuwei2016.github.io/post/qian-duan-zhi-shi-ti-xi/">
-        </link>
-        <updated>2021-10-21T09:21:34.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="计算机基础">计算机基础</h3>
-<pre><code>操作系统
-文件系统
-</code></pre>
-<h3 id="计算机网络">计算机网络</h3>
-<p>http<br>
-网络分层<br>
-udp与TCP<br>
-HTTP2.0<br>
-跨域</p>
-<h3 id="工程化">工程化</h3>
-<h3 id="浏览器">浏览器</h3>
-<h3 id="node">NODE</h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搭建quick-admin]]></title>
-        <id>https://liuwei2016.github.io/post/da-jian-quick-admin/</id>
-        <link href="https://liuwei2016.github.io/post/da-jian-quick-admin/">
-        </link>
-        <updated>2021-10-20T08:09:13.000Z</updated>
-        <content type="html"><![CDATA[<p>搭建quick-admin</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搭建sentry]]></title>
-        <id>https://liuwei2016.github.io/post/da-jian-sentry/</id>
-        <link href="https://liuwei2016.github.io/post/da-jian-sentry/">
-        </link>
-        <updated>2021-10-20T08:08:55.000Z</updated>
-        <content type="html"><![CDATA[<p>搭建sentry</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搭建YAPI]]></title>
-        <id>https://liuwei2016.github.io/post/da-jian-yapi/</id>
-        <link href="https://liuwei2016.github.io/post/da-jian-yapi/">
-        </link>
-        <updated>2021-10-20T08:08:02.000Z</updated>
-        <content type="html"><![CDATA[<p>创建接口平台</p>
-<p>mongdb</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搭建docker]]></title>
-        <id>https://liuwei2016.github.io/post/da-jian-docker/</id>
-        <link href="https://liuwei2016.github.io/post/da-jian-docker/">
-        </link>
-        <updated>2021-10-20T08:07:37.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="docker安装">docker安装</h3>
-<p>ubuntu 环境上</p>
-<pre><code>curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
-</code></pre>
-<p>也可以使用国内 daocloud 一键安装命令：</p>
-<pre><code>curl -sSL https://get.daocloud.io/docker | sh
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ubuntu 操作日记]]></title>
-        <id>https://liuwei2016.github.io/post/ubuntu-cao-zuo-ri-ji/</id>
-        <link href="https://liuwei2016.github.io/post/ubuntu-cao-zuo-ri-ji/">
-        </link>
-        <updated>2021-10-20T07:48:08.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="环境准备">环境准备</h3>
-<h3 id="安装">安装</h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经典工具收藏]]></title>
-        <id>https://liuwei2016.github.io/post/jing-dian-gong-ju-shou-cang/</id>
-        <link href="https://liuwei2016.github.io/post/jing-dian-gong-ju-shou-cang/">
-        </link>
-        <updated>2021-10-20T01:56:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>这是一个前端经典的工具收藏宝箱，希望在提高效率方面 能给你加助燃剂</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>这是一个前端经典的工具收藏宝箱，希望在提高效率方面 能给你加助燃剂</p>
-<!-- more -->
-<h3 id="vue">vue</h3>
-<p>模板 编译i</p>
-<p>https://vue-template-explorer.netlify.app/</p>
-<h3 id="vue30">vue3.0</h3>
-<p>https://vue-next-template-explorer.netlify.app/</p>
-<ul>
-<li><a href="https://jsperf.com/popular"><strong>jsperf</strong></a> 一个提供在线 test case 的网站，主要用来比较性能。可以比较如： forEach vs for 的性能</li>
-<li><a href="https://github.com/lukejacksonn/perflink"><strong>perflink</strong></a> 与 jsperf 类似的一个比较 js 性能的网站</li>
-</ul>
-<h3 id="ast">ast</h3>
-<p>https://astexplorer.net/</p>
-<p><a href="https://f2e.tech/mindmap">前端知识体系</a></p>
-<p>gogocod 代码转换gogocode.io</p>
-<p>csstemplate</p>
-<p>https://startbootstrap.com/</p>
-<p>在线手绘流程：</p>
-<p>https://sketchviz.com/new</p>
-<p>精灵图</p>
-<p>https://spritejs.org/demo</p>
-<p>文件批量重命名</p>
-<p>https://webrename.cn/</p>
-<p>css涂鸦<br>
-css-doodle</p>
-<p>chrome 工具包</p>
-<p><a href="https://github.com/zhaoolee/ChromeAppHeroes">zhaoolee/ChromeAppHeroes: 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新 (github.com)</a></p>
-<p>github 中文项目排行版</p>
-<p><a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts?utm_source=gold_browser_extension">GitHub - kon9chunkit/GitHub-Chinese-Top-Charts: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！</a></p>
-<img src="https://images.unsplash.com/photo-1552053831-71594a27632d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTgwOTN8MHwxfHNlYXJjaHwyfHxkb2d8ZW58MHx8fHwxNjI4ODY3MzAx&ixlib=rb-1.2.1&q=80&w=1080" style="zoom:30%;" />
-[html5 模板](https://html5up.net/)
-js合集
-https://www.javascript.fun/
-<h3 id="css">css</h3>
-<ul>
-<li><a href="https://lhammer.cn/You-need-to-know-css/#/zh-cn/interesting-usage">有趣的css</a></li>
-<li><a href="https://csscoco.com/inspiration/#/">css 灵感 </a></li>
-<li>css 基础<br>
-https://lhammer.cn/You-need-to-know-css/#/zh-cn/</li>
-<li>css技巧<br>
-https://qishaoxuan.github.io/css_tricks</li>
-<li>css 动画基础<br>
-https://animista.net/play/text/focus-in</li>
-<li>flex : 布局游戏<br>
-http://flexboxfroggy.com/</li>
-</ul>
-<p>渐变色<br>
-https://uigradients.com<br>
-即时设计<br>
-https://js.design/<br>
-<a href="https://tobiasahlin.com/spinkit/">加载效果</a><br>
-<a href="https://sass.bootcss.com/documentation">scss文档</a><br>
-<a href="https://less.bootcss.com/">less文档</a></p>
-<h3 id="js">JS</h3>
-<p>js 技巧<br>
-https://www.jstips.co/</p>
-<ol>
-<li>CSS battle : https://cssbattle.dev</li>
-<li>Learn CSS layout：http://learnlayout.com</li>
-<li>Flexbox Froggy：http://flexboxfroggy.com</li>
-<li>EnjoyCSS：https://enjoycss.com</li>
-<li>CSS-Tricks ：https://css-tricks.com</li>
-<li>Neumorphism：https://neumorphism.io</li>
-<li>uiGradients：https://uigradients.com</li>
-<li>JavaScript：https://bonsaiden.github.io/JavaScript-Garden/zh/</li>
-<li>JS Tips：https://www.jstips.co</li>
-<li>JSweekly：https://javascriptweekly.com</li>
-<li>CDNJS：https://cdnjs.com/libraries</li>
-<li>Beautiful Open ：https://beautifulopen.com</li>
-<li>JavaScript Fun：https://www.javascript.fun</li>
-<li>Stack Overflow：https://stackoverflow.com</li>
-<li>掘金：https://juejin.im</li>
-<li>Codrops：https://tympanus.net</li>
-<li>CodePen：https://codepen.io</li>
-<li>CodeSandBox：https://codesandbox.io</li>
-<li>JS Bin：https://jsbin.com</li>
-<li>ICONSVG：https://iconsvg.xyz</li>
-<li>OpenMoji：https://www.openmoji.org</li>
-<li>Share Icon ：https://www.shareicon.net</li>
-<li>tableconvert ：https://tableconvert.com</li>
-<li>Feathericons：https://feathericons.com</li>
-<li>HTML5UP ：https://html5up.net/</li>
-</ol>
-<h3 id="nodejs">nodeJs</h3>
-<ul>
-<li>rimraf</li>
-<li>koa</li>
-<li>express</li>
-</ul>
-<h3 id="前端杂烩">前端杂烩</h3>
-<p><a href="https://juejin.cn/post/6844903902299553806">前端进阶必备，github 优质资源整理</a></p>
 ]]></content>
     </entry>
 </feed>
