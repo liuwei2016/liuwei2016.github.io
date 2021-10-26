@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-26T08:19:06.831Z</updated>
+    <updated>2021-10-26T11:18:48.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://liuwei2016.github.io/images/avatar.png</logo>
     <icon>https://liuwei2016.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 大伟前端</rights>
+    <entry>
+        <title type="html"><![CDATA[我的事故总结]]></title>
+        <id>https://liuwei2016.github.io/post/shi-gu/</id>
+        <link href="https://liuwei2016.github.io/post/shi-gu/">
+        </link>
+        <updated>2021-10-26T11:07:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>不经意间 经常事故爆出，总结事故</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>不经意间 经常事故爆出，总结事故</p>
+<!-- more -->
+<h3 id="线上环境-新增配置-拼写错误">线上环境 新增配置 拼写错误</h3>
+<p>.env.production  多了一个等号<br>
+vue-cli 工程： VUE_APP_API_ORDER_HOST == https://api.com/api</p>
+<p>问题关键：<br>
+1.细心检查，<br>
+2 对配置文件进行自动化检查</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端难题]]></title>
         <id>https://liuwei2016.github.io/post/qian-duan-nan-ti/</id>
@@ -236,15 +254,6 @@ js命名</p>
 </ol>
 <h3 id="可视化搭建">可视化搭建</h3>
 <p>###AB Test</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端工程化与自动化]]></title>
-        <id>https://liuwei2016.github.io/post/qian-duan-gong-cheng-hua-yu-zi-dong-hua/</id>
-        <link href="https://liuwei2016.github.io/post/qian-duan-gong-cheng-hua-yu-zi-dong-hua/">
-        </link>
-        <updated>2021-10-21T09:23:46.000Z</updated>
-        <content type="html"><![CDATA[<p>工程化的内容</p>
 ]]></content>
     </entry>
 </feed>
