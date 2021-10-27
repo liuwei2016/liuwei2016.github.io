@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-26T11:18:48.260Z</updated>
+    <updated>2021-10-27T02:10:17.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://liuwei2016.github.io/images/avatar.png</logo>
     <icon>https://liuwei2016.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 大伟前端</rights>
+    <entry>
+        <title type="html"><![CDATA[今日收获记录]]></title>
+        <id>https://liuwei2016.github.io/post/jin-ri-shou-huo/</id>
+        <link href="https://liuwei2016.github.io/post/jin-ri-shou-huo/">
+        </link>
+        <updated>2021-10-26T11:52:22.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="2021-10-26">2021-10-26</h3>
+<ol>
+<li>无埋点方案原理以及实践 gogocode</li>
+<li>表单体验上报思考</li>
+<li>配置带来的事故</li>
+<li>babel preset相关知识</li>
+<li>培训课程结业</li>
+</ol>
+<h3 id="2021-10-25">2021-10-25</h3>
+<ol>
+<li>gogocode 对vue 以及html模板的复杂操作</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的事故总结]]></title>
         <id>https://liuwei2016.github.io/post/shi-gu/</id>
@@ -50,6 +70,9 @@ vue-cli 工程： VUE_APP_API_ORDER_HOST == https://api.com/api</p>
 </li>
 <li></li>
 </ol>
+<h3 id="ui问题">UI问题</h3>
+<h3 id="复杂性问题">复杂性问题</h3>
+<h3 id="缓存问题">缓存问题</h3>
 ]]></content>
     </entry>
     <entry>
@@ -205,55 +228,6 @@ React更拥抱函数式编程的哲学思想，大型项目，期望代码充分
 <p><a href="https://mp.weixin.qq.com/s/2y2sgOmZvOlETuubK7O_Og">在B站围观大佬自制钢铁侠机械臂</a></p>
 </li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端整体提高效率和质量有哪些方面？]]></title>
-        <id>https://liuwei2016.github.io/post/qian-duan-jian-kong-yu-zi-dong-hua-you-na-xie-fang-mian/</id>
-        <link href="https://liuwei2016.github.io/post/qian-duan-jian-kong-yu-zi-dong-hua-you-na-xie-fang-mian/">
-        </link>
-        <updated>2021-10-21T09:24:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>前端有哪些可以在项目整体提高效率和质量的方面呢？</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>前端有哪些可以在项目整体提高效率和质量的方面呢？</p>
-<!-- more -->
-<h3 id="ui搞生成样板代码">UI搞生成样板代码</h3>
-<h3 id="ui走查">UI走查😱</h3>
-<p>sketch</p>
-<h3 id="前端埋点统计-非常重要">前端埋点统计😀😀 非常重要</h3>
-<ul>
-<li>无埋点</li>
-</ul>
-<h3 id="前端代码质量监控">前端代码质量监控</h3>
-<ul>
-<li>sonarQube</li>
-</ul>
-<h3 id="前端错误上报">前端错误上报</h3>
-<p>sentry</p>
-<h3 id="前端代码走查系统">前端代码走查系统</h3>
-<p>git 比对，推送给审查人</p>
-<h3 id="前端后台组件使用系统">前端后台组件使用系统</h3>
-<h3 id="性能监控上报系统">性能监控上报系统</h3>
-<h3 id="前端mock数据自动化">前端mock数据自动化</h3>
-<h3 id="接口测试自动化">接口测试自动化</h3>
-<h3 id="前端命名规范库">前端命名规范库</h3>
-<p>css命名<br>
-js命名</p>
-<h3 id="数据驱动">数据驱动</h3>
-<p>pv uv，涨了 怎么涨的<br>
-针对活动 多渠道<br>
-某项活动<br>
-多策略情况，无法直接判断收益</p>
-<h3 id="团队个人表现数据追踪">团队个人表现数据追踪</h3>
-<ol>
-<li>技术优化</li>
-<li>项目负责</li>
-<li>效率贡献</li>
-<li>负载率</li>
-<li>bug数，解决及时度</li>
-</ol>
-<h3 id="可视化搭建">可视化搭建</h3>
-<p>###AB Test</p>
 ]]></content>
     </entry>
 </feed>
