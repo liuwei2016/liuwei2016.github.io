@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-27T02:10:17.555Z</updated>
+    <updated>2021-10-27T02:27:06.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -10,6 +10,45 @@
     <logo>https://liuwei2016.github.io/images/avatar.png</logo>
     <icon>https://liuwei2016.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 大伟前端</rights>
+    <entry>
+        <title type="html"><![CDATA[能力清单]]></title>
+        <id>https://liuwei2016.github.io/post/neng-li-qing-dan/</id>
+        <link href="https://liuwei2016.github.io/post/neng-li-qing-dan/">
+        </link>
+        <updated>2021-10-27T02:20:07.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="学习能力">学习能力</h3>
+<h4 id="检索能力">检索能力</h4>
+<p>1.google<br>
+2. github<br>
+3. debug<br>
+4. viewcode</p>
+<h4 id="基础能力">基础能力</h4>
+<ul>
+<li>物理基础</li>
+<li>数学基础</li>
+<li>英语基础</li>
+</ul>
+<h4 id="计算机基础">计算机基础</h4>
+<ul>
+<li>编程语言</li>
+<li>计算机操作系统</li>
+<li>计算机网络</li>
+<li>计算机安全</li>
+<li>数据结构与算法</li>
+</ul>
+<h4 id="前端基础">前端基础</h4>
+<ul>
+<li>html5</li>
+<li>css3</li>
+<li>js es6</li>
+<li>ts</li>
+</ul>
+<h4 id="项目类型">项目类型</h4>
+<p>1.中后台项目<br>
+2.移动端混合开发项目<br>
+3.小程序项目</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今日收获记录]]></title>
         <id>https://liuwei2016.github.io/post/jin-ri-shou-huo/</id>
@@ -162,72 +201,6 @@ storybook</p>
         <content type="html"><![CDATA[<p>AST 与 Babel</p>
 <!-- more -->
 <p>AST 与 Babel</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每周精选第一期]]></title>
-        <id>https://liuwei2016.github.io/post/mei-zhou-jing-xuan-di-yi-qi/</id>
-        <link href="https://liuwei2016.github.io/post/mei-zhou-jing-xuan-di-yi-qi/">
-        </link>
-        <updated>2021-10-22T05:35:06.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>
-<p><a href="https://juejin.cn/post/7016520448204603423">你会用ES6，那倒是用啊！</a></p>
-</li>
-<li>
-<p><a href="https://mp.weixin.qq.com/s/IJHI9JB3nMQPi46b6yGVWw">web worker性能优化初体验</a></p>
-</li>
-<li>
-<p><a href="https://juejin.cn/post/7013247812628381704?utm_source=gold_browser_extension">UI：你们有没有什么花哨点的组件库给我参考一下？</a></p>
-</li>
-<li>
-<p>如何用“底层逻辑”，看清世界的底牌？</p>
-<p>只有底层逻辑才有生命力。<br>
-因为底层逻辑在面临变化的时候，能够应用到新的变化里面，会产生出新的方法论。</p>
-<p>如果用一个公式来表示的话，是这样：<br>
-底层逻辑 + 环境变量 = 方法论</p>
-<p>如果说只掌握各行各业的“干货”方法论，那只是“授人以鱼”，只要环境出现任何变化，“干货”就不再适用。<br>
-但如果掌握的是“底层逻辑”，那就是“授人以渔”，你可以通过不变的底层逻辑，推演出顺应时势的方法论。<br>
-所以，只有掌握了底层逻辑，只有探寻到了万变中的不变，才能动态地、持续地看清事物的本质。</p>
-<p>\1. 是非对错的底层逻辑<br>
-\2. 思考问题的底层逻辑<br>
-\3. 个体进化的底层逻辑<br>
-\4. 理解他人的底层逻辑<br>
-\5. 社会协作的底层逻辑</p>
-</li>
-<li>
-<h4 id="前端应该了解的直播知识"><a href="https://mp.weixin.qq.com/s/LElmZjWOm8OmchrQj50_0A">前端应该了解的直播知识</a></h4>
-</li>
-<li>
-<p>[在 VR 环境中编程，多屏香不香？<br>
-<img src="http://confluence.daojia-inc.com/download/attachments/131986174/6cAyDl.png?version=1&amp;modificationDate=1634276854000&amp;api=v2" alt="img" loading="lazy"></p>
-</li>
-<li>
-<p><a href="https://mp.weixin.qq.com/s/zYXfmQ8l61p6ax0UX2LRHw">建立和维护大型 Vue.js 项目的 10 个最佳实践</a>。</p>
-</li>
-<li>
-<p><a href="https://www.ozzillate.com/">声波传文件</a></p>
-</li>
-<li>
-<p>[前端40+精选VSCode插件，总有几个你未拥有！</p>
-</li>
-<li>
-<p><a href="https://www.zhihu.com/question/21861899/answer/20300871">escape,encodeURI,encodeURIComponent有什么区别?</a></p>
-</li>
-<li>
-<p><a href="https://www.zhihu.com/question/314761485">为什么react比vue更适合大型应用？</a><br>
-React更拥抱函数式编程的哲学思想，大型项目，期望代码充分解耦，可测试。函数式，无副作用，天然契合。加入hooks的react，函数式的更彻底！</p>
-</li>
-<li>
-<p><a href="https://github.com/kingcos/JueJueZiGenerator">绝绝子生成器</a></p>
-</li>
-<li>
-<p><a href="https://mp.weixin.qq.com/s/ZC1lPnSsZxjMiADNATOA7Q">《鱿鱼游戏》的骨子里，是“权力的游戏”</a></p>
-</li>
-<li>
-<p><a href="https://mp.weixin.qq.com/s/2y2sgOmZvOlETuubK7O_Og">在B站围观大佬自制钢铁侠机械臂</a></p>
-</li>
-</ol>
 ]]></content>
     </entry>
 </feed>
