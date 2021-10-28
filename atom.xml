@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-27T02:27:06.261Z</updated>
+    <updated>2021-10-28T05:44:15.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -11,12 +11,54 @@
     <icon>https://liuwei2016.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 大伟前端</rights>
     <entry>
+        <title type="html"><![CDATA[现代化前端【持续】]]></title>
+        <id>https://liuwei2016.github.io/_O9IrInPy/</id>
+        <link href="https://liuwei2016.github.io/_O9IrInPy/">
+        </link>
+        <updated>2021-10-28T02:25:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>😀梳理现代化前端的趋势，预判前端新一轮革命</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😀梳理现代化前端的趋势，预判前端新一轮革命</p>
+<!-- more -->
+<p><a href="https://modernjs.dev/">现代化前端</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[review code 主要看哪些？]]></title>
+        <id>https://liuwei2016.github.io/_EVdhwV_h/</id>
+        <link href="https://liuwei2016.github.io/_EVdhwV_h/">
+        </link>
+        <updated>2021-10-27T02:41:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>1.我们如何做好代码review呢 ？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1.我们如何做好代码review呢 ？</p>
+<!-- more -->
+<h3 id="基础构建配置review">基础构建配置review</h3>
+<ol>
+<li>有没有使用新的技术栈（符合要求的）</li>
+<li>有没有加入本季度要求的监控</li>
+<li>有没有线上新增的配置 拼写错误</li>
+<li></li>
+</ol>
+<p>###业务代码</p>
+<ol>
+<li>有没有该抽取组件的地方</li>
+<li>有没有必要的注释</li>
+<li>有没有对readme 进行改进</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[能力清单]]></title>
-        <id>https://liuwei2016.github.io/post/neng-li-qing-dan/</id>
-        <link href="https://liuwei2016.github.io/post/neng-li-qing-dan/">
+        <id>https://liuwei2016.github.io/neng-li-qing-dan/</id>
+        <link href="https://liuwei2016.github.io/neng-li-qing-dan/">
         </link>
         <updated>2021-10-27T02:20:07.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="学习能力">学习能力</h3>
+        <summary type="html"><![CDATA[<p>不短梳理自己的能力体系，查漏补缺，形成体系输出</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>不短梳理自己的能力体系，查漏补缺，形成体系输出</p>
+<!-- more -->
+<h3 id="学习能力">学习能力</h3>
 <h4 id="检索能力">检索能力</h4>
 <p>1.google<br>
 2. github<br>
@@ -47,32 +89,77 @@
 <p>1.中后台项目<br>
 2.移动端混合开发项目<br>
 3.小程序项目</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/liuwei2016/DragAndDrop@master/imgs/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.1dwsc9yhrm4g.png" alt="学习方法" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[今日收获记录]]></title>
-        <id>https://liuwei2016.github.io/post/jin-ri-shou-huo/</id>
-        <link href="https://liuwei2016.github.io/post/jin-ri-shou-huo/">
+        <title type="html"><![CDATA[今日收获记录 [持续记录]]]></title>
+        <id>https://liuwei2016.github.io/jin-ri-shou-huo/</id>
+        <link href="https://liuwei2016.github.io/jin-ri-shou-huo/">
         </link>
         <updated>2021-10-26T11:52:22.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="2021-10-26">2021-10-26</h3>
+        <summary type="html"><![CDATA[<p>一寸光阴一寸金，每天进步一点点，记录每天收获👍</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一寸光阴一寸金，每天进步一点点，记录每天收获👍</p>
+<!-- more -->
+<p>###2021-11-06<br>
+###2021-11-05<br>
+###2021-11-04<br>
+###2021-11-03<br>
+###2021-11-02<br>
+###2021-11-01</p>
+<p>#10月</p>
+<p>###2021-10-31<br>
+###2021-10-30<br>
+###2021-10-29<br>
+###2021-10-28</p>
+<ol>
+<li>
+<p>nodejs fs 模块 ， 读 写 增 拷贝 监控， open  close （针对流操作）</p>
+</li>
+<li>
+<p>fs.read 就是读数据写入buffer（读就是写）<br>
+fs.read(fd,buf,1,4,3，fn)  打开的文件， 缓冲区 ， buffer开始位置，多少长度 ， 从文件的哪个位置开始， 回调函数</p>
+</li>
+<li>
+<p>实现md转html</p>
+</li>
+<li>
+<p>梳理售后体系</p>
+</li>
+<li>
+<p>buffer 缓冲区与stream 流操作</p>
+</li>
+<li>
+<p>大文件操作（边读 边存）</p>
+</li>
+</ol>
+<p>###2021-10-27<br>
+1.如何画流程图 泳道图<br>
+2. 组件库 dialog与popup共用一个单例的蒙层 ，全局引入没问题，按需引入则可以<br>
+3. nodejs的 process path，<br>
+4. node 适合io密集型，能提高cup利用率，单线程实现轻量高效<br>
+5.</p>
+<h3 id="2021-10-26">2021-10-26</h3>
 <ol>
 <li>无埋点方案原理以及实践 gogocode</li>
-<li>表单体验上报思考</li>
+<li>表单体验上报思考，错误率直接影响体验</li>
 <li>配置带来的事故</li>
 <li>babel preset相关知识</li>
-<li>培训课程结业</li>
+<li>培训课程结业 学习能力如何提高</li>
+<li></li>
 </ol>
 <h3 id="2021-10-25">2021-10-25</h3>
 <ol>
 <li>gogocode 对vue 以及html模板的复杂操作</li>
+<li></li>
 </ol>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的事故总结]]></title>
-        <id>https://liuwei2016.github.io/post/shi-gu/</id>
-        <link href="https://liuwei2016.github.io/post/shi-gu/">
+        <id>https://liuwei2016.github.io/shi-gu/</id>
+        <link href="https://liuwei2016.github.io/shi-gu/">
         </link>
         <updated>2021-10-26T11:07:19.000Z</updated>
         <summary type="html"><![CDATA[<p>不经意间 经常事故爆出，总结事故</p>
@@ -89,8 +176,8 @@ vue-cli 工程： VUE_APP_API_ORDER_HOST == https://api.com/api</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端难题]]></title>
-        <id>https://liuwei2016.github.io/post/qian-duan-nan-ti/</id>
-        <link href="https://liuwei2016.github.io/post/qian-duan-nan-ti/">
+        <id>https://liuwei2016.github.io/qian-duan-nan-ti/</id>
+        <link href="https://liuwei2016.github.io/qian-duan-nan-ti/">
         </link>
         <updated>2021-10-26T06:38:10.000Z</updated>
         <content type="html"><![CDATA[<p>1.用户在该客户端浏览的行为数据<br>
@@ -112,12 +199,13 @@ vue-cli 工程： VUE_APP_API_ORDER_HOST == https://api.com/api</p>
 <h3 id="ui问题">UI问题</h3>
 <h3 id="复杂性问题">复杂性问题</h3>
 <h3 id="缓存问题">缓存问题</h3>
+<h3 id="数据驱动问题">数据驱动问题</h3>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[react 生态]]></title>
-        <id>https://liuwei2016.github.io/post/react-sheng-tai/</id>
-        <link href="https://liuwei2016.github.io/post/react-sheng-tai/">
+        <id>https://liuwei2016.github.io/react-sheng-tai/</id>
+        <link href="https://liuwei2016.github.io/react-sheng-tai/">
         </link>
         <updated>2021-10-26T05:46:15.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://semi.design/">抖音中后台组件库</a></p>
@@ -125,8 +213,8 @@ vue-cli 工程： VUE_APP_API_ORDER_HOST == https://api.com/api</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的npm 仓库]]></title>
-        <id>https://liuwei2016.github.io/post/wo-de-npm-cang-ku/</id>
-        <link href="https://liuwei2016.github.io/post/wo-de-npm-cang-ku/">
+        <id>https://liuwei2016.github.io/wo-de-npm-cang-ku/</id>
+        <link href="https://liuwei2016.github.io/wo-de-npm-cang-ku/">
         </link>
         <updated>2021-10-26T03:06:05.000Z</updated>
         <content type="html"><![CDATA[<h3 id="node-工具">node 工具</h3>
@@ -140,16 +228,30 @@ vue-cli 工程： VUE_APP_API_ORDER_HOST == https://api.com/api</p>
 <li>
 <p>rimrf</p>
 </li>
+<li>
+<p>jsonschema json校验</p>
+</li>
+<li>
+<p>mockjs 制造mock数据</p>
+</li>
+<li>
+<p>UAParser.js是一款解析UA的NPM包，用于将浏览器UA字符串解析为格式化数据</p>
+</li>
 </ul>
 <h3 id="babel">babel</h3>
 <h3 id="eslint">eslint</h3>
-<h3 id=""></h3>
+<h3 id="vue">vue</h3>
+<h3 id="react">react</h3>
+<h3 id="基础工具">基础工具</h3>
+<p>js-cookies<br>
+dayjs<br>
+loadsh</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[vite]]></title>
-        <id>https://liuwei2016.github.io/post/vite/</id>
-        <link href="https://liuwei2016.github.io/post/vite/">
+        <id>https://liuwei2016.github.io/vite/</id>
+        <link href="https://liuwei2016.github.io/vite/">
         </link>
         <updated>2021-10-25T07:47:44.000Z</updated>
         <content type="html"><![CDATA[<p>vue-cli 迁移到 vite</p>
@@ -157,50 +259,13 @@ vue-cli 工程： VUE_APP_API_ORDER_HOST == https://api.com/api</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的github Sart项目清单]]></title>
-        <id>https://liuwei2016.github.io/post/wo-de-github-sart-xiang-mu-qing-dan/</id>
-        <link href="https://liuwei2016.github.io/post/wo-de-github-sart-xiang-mu-qing-dan/">
+        <id>https://liuwei2016.github.io/wo-de-github-sart-xiang-mu-qing-dan/</id>
+        <link href="https://liuwei2016.github.io/wo-de-github-sart-xiang-mu-qing-dan/">
         </link>
         <updated>2021-10-25T07:32:55.000Z</updated>
         <content type="html"><![CDATA[<p>vueuse 一个vue的工具包</p>
 <p>the-super-tiny-compiler 一个微小的编译器</p>
 <p><a href="https://github.com/SangKa/MobX-Docs-CN">MobX-Docs-CN 中文文档</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vue生态圈文档]]></title>
-        <id>https://liuwei2016.github.io/post/vue-sheng-tai-quan-wen-dang/</id>
-        <link href="https://liuwei2016.github.io/post/vue-sheng-tai-quan-wen-dang/">
-        </link>
-        <updated>2021-10-25T02:55:49.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="源码">源码</h2>
-<p><a href="https://www.kancloud.cn/sllyli/vuejs/1244017">vue内部运行机制</a><br>
-<a href="https://vue-js.com/learn-vue/">vue源码</a></p>
-<h2 id="文档编写">文档编写</h2>
-<p><a href="https://vue-styleguidist.github.io/">vue style 文档</a><br>
-vue press<br>
-docs<br>
-storybook</p>
-<h2 id="工程化">工程化</h2>
-<p>##组件化</p>
-<h2 id="ssr">SSR</h2>
-<h2 id="插件">插件</h2>
-<h2 id="vue30">vue3.0</h2>
-<h2 id="路由">路由</h2>
-<h2 id="数据共享">数据共享</h2>
-<h2 id="经典开源项目">经典开源项目</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ast与babel]]></title>
-        <id>https://liuwei2016.github.io/post/ast-yu-babel/</id>
-        <link href="https://liuwei2016.github.io/post/ast-yu-babel/">
-        </link>
-        <updated>2021-10-24T03:04:47.000Z</updated>
-        <summary type="html"><![CDATA[<p>AST 与 Babel</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>AST 与 Babel</p>
-<!-- more -->
-<p>AST 与 Babel</p>
 ]]></content>
     </entry>
 </feed>
