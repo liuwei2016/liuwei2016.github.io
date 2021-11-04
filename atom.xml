@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-10-29T03:32:20.109Z</updated>
+    <updated>2021-11-04T03:02:15.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -22,6 +22,10 @@
 <!-- more -->
 <p><a href="https://modernjs.dev/">现代化前端</a></p>
 <p><a href="https://docs.cloudbase.net/cloud-function/how-works">腾讯云开发</a></p>
+<h3 id="npm包趋势">npm包趋势</h3>
+<p>https://www.npmtrends.com/react-vs-vue</p>
+<h3 id="面试简历">面试简历</h3>
+<p><a href="http://cv.ftqq.com/#">面试简历制作</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -105,14 +109,42 @@
 <!-- more -->
 <p>###2021-11-06<br>
 ###2021-11-05<br>
-###2021-11-04<br>
-###2021-11-03<br>
-###2021-11-02<br>
-###2021-11-01</p>
+###2021-11-04</p>
+<p>###2021-11-03</p>
+<ol>
+<li>node event loop 以及浏览器 event loop<br>
+主要关系 timer ，poll ，check ， 执行顺序看 从哪个地方过来</li>
+<li>路由设计</li>
+<li>mongodb的基础</li>
+<li>微任务和宏任务 每执行完成一个宏任务 都会进入微任务</li>
+<li>redis 入门<br>
+###2021-11-02</li>
+<li>nodejs require加载机制 以及源码实现</li>
+<li>浏览器的四种观察者模式和数据监控统计，以及游戏破解</li>
+<li>node event实现</li>
+<li></li>
+</ol>
+<p>###2021-11-01</p>
+<ol>
+<li>nodejs</li>
+<li>package.json 有哪些配置</li>
+<li>js 工具函数</li>
+<li>整理css 在线工具</li>
+<li></li>
+</ol>
 <p>#10月</p>
-<p>###2021-10-31<br>
-###2021-10-30<br>
-###2021-10-29</p>
+<p>###2021-10-31</p>
+<ol>
+<li>nodejs 文件操作</li>
+<li>云数据库查询<br>
+3.roullup 构建工具库</li>
+</ol>
+<p>###2021-10-30</p>
+<ol>
+<li>创建收藏夹</li>
+<li>创建第一个云函数运用</li>
+</ol>
+<p>###2021-10-29</p>
 <ol>
 <li>apijson 机器学习</li>
 <li></li>
@@ -237,7 +269,7 @@ vue-cli 工程： VUE_APP_API_ORDER_HOST == https://api.com/api</p>
 <p>chokidar  文件监测</p>
 </li>
 <li>
-<p>rimrf</p>
+<p>rimraf</p>
 </li>
 <li>
 <p>jsonschema json校验</p>
@@ -247,6 +279,10 @@ vue-cli 工程： VUE_APP_API_ORDER_HOST == https://api.com/api</p>
 </li>
 <li>
 <p>UAParser.js是一款解析UA的NPM包，用于将浏览器UA字符串解析为格式化数据</p>
+</li>
+<li>
+<p>core-js<br>
+JavaScript 的模块化标准库。包括ECMAScript 到 2021 年的 polyfills：promises、symbols、collections、iterators、typed arrays、许多其他特性、ECMAScript 提案、一些跨平台的 WHATWG/W3C 特性和提案。</p>
 </li>
 </ul>
 <h3 id="babel">babel</h3>
@@ -282,6 +318,7 @@ loadsh</p>
 <p>the-super-tiny-compiler 一个微小的编译器</p>
 <p><a href="https://github.com/SangKa/MobX-Docs-CN">MobX-Docs-CN 中文文档</a></p>
 <p><a href="https://github.com/mrvautin/adminMongo">adminMongo 可视化管理mongo</a></p>
+<p><a href="https://github.com/alexfoxy/lax.js">一个轻量的动画库</a></p>
 ]]></content>
     </entry>
 </feed>
