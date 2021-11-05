@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuwei2016.github.io</id>
     <title>大伟前端</title>
-    <updated>2021-11-04T03:02:15.200Z</updated>
+    <updated>2021-11-05T02:58:57.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuwei2016.github.io"/>
     <link rel="self" href="https://liuwei2016.github.io/atom.xml"/>
@@ -95,6 +95,12 @@
 2.移动端混合开发项目<br>
 3.小程序项目</p>
 <figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/liuwei2016/DragAndDrop@master/imgs/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.1dwsc9yhrm4g.png" alt="学习方法" loading="lazy"></figure>
+<h3 id="核心">核心</h3>
+<p>####javascript 原生能力<br>
+####vue2.0 vue3.0<br>
+####工程化能力 vite webpack5 babel</p>
+<h4 id="ts">ts</h4>
+<h4 id="数据结果和算法">数据结果和算法</h4>
 ]]></content>
     </entry>
     <entry>
@@ -110,6 +116,11 @@
 <p>###2021-11-06<br>
 ###2021-11-05<br>
 ###2021-11-04</p>
+<ol>
+<li>微软 ai写代码</li>
+<li>可读可写流</li>
+<li>nodejs代理</li>
+</ol>
 <p>###2021-11-03</p>
 <ol>
 <li>node event loop 以及浏览器 event loop<br>
